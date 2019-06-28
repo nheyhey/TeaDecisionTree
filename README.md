@@ -1,4 +1,4 @@
-# TeaDisionTree
+# TeaDecisionTree
 
 ## 分析手法
 決定木
